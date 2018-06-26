@@ -1,3 +1,4 @@
 new file3
 modif from cloned
 test conflit file3
+modif stash file3
